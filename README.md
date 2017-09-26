@@ -1,4 +1,4 @@
-# ufpafaults
+# UFPAFaults
 
 UFPAFaults is a public labeled dataset with short-circuit events, which allows to compare algorithms and reproduce results over different sites. It is currently in its fifth version, called UFPAFaults5
 
